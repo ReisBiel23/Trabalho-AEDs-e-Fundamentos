@@ -14,6 +14,7 @@ Backlog do produto:
 Exemplo:
 Apresente o backlog do seu produto a cada semana:
 
+<img src="https://github.com/ReisBiel23/Trabalho-AEDs-e-Fundamentos/blob/main/imagem_2024-06-30_174656782.png?raw=true"´/>
  
 Figura 1: Criando Quadros e decidindo cada tópico pelo Trello
 Decidi organizar as minhas ideias e coloca-las no Trello para que assim fique melhor a visualização de cada passo a passo que eu vou fazer.
