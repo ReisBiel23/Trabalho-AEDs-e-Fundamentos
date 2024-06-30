@@ -18,6 +18,8 @@ Apresente o backlog do seu produto a cada semana:
  
 Figura 1: Criando Quadros e decidindo cada tópico pelo Trello
 Decidi organizar as minhas ideias e coloca-las no Trello para que assim fique melhor a visualização de cada passo a passo que eu vou fazer.
+
+<img src="https://github.com/ReisBiel23/Trabalho-AEDs-e-Fundamentos/blob/main/imagem_2024-06-30_174235558.png?raw=true"/>
  
 Figura 2: Definir o que fazer em cada Sprint
 Na figura 2, defini o dia e todas as funções e metas que irei produzir a cada sprint, priorizando a qualidade e o desenvolvimento do código, para que assim, eu tenha uma organização e visualização de cada passo a passo que eu deva fazer e confirmar os objetivos que eu fiz. 
