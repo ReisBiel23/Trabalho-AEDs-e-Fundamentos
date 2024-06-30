@@ -1,18 +1,27 @@
 # Trabalho-AEDs-e-Fundamentos
 
 PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS
+
 INSTITUTO DE CIÊNCIAS EXATAS E INFORMÁTICA
+
 UNIDADE EDUCACIONAL PRAÇA DA LIBERDADE
+
 Bacharelado em Engenharia de Software
+
 Nome dos integrantes do grupo:
+
 Gabriel Reis
+
 Nome do sistema:
+
 Hotel Descanso Garantido 
+
 Apresentação:
+
 Esse projeto e sobre o Hotel Descanso Garantido, no qual o usuário vai cadastrar os seus clientes, quartos, funcionários e estadia, dentro do seu computador, substituindo a forma antiga que era anotado em um papel.
+
 Backlog do produto:
-Exemplo:
-Apresente o backlog do seu produto a cada semana:
+
 
 <img src="https://github.com/ReisBiel23/Trabalho-AEDs-e-Fundamentos/blob/main/imagem_2024-06-30_174656782.png?raw=true"/>
  
@@ -24,6 +33,7 @@ Decidi organizar as minhas ideias e coloca-las no Trello para que assim fique me
 Figura 2: Definir o que fazer em cada Sprint
 Na figura 2, defini o dia e todas as funções e metas que irei produzir a cada sprint, priorizando a qualidade e o desenvolvimento do código, para que assim, eu tenha uma organização e visualização de cada passo a passo que eu deva fazer e confirmar os objetivos que eu fiz. 
 
+<img src="https://github.com/ReisBiel23/Trabalho-AEDs-e-Fundamentos/blob/main/imagem_2024-06-30_175151845.png?raw=true"/>
  
 Figura 3: Mostrar o que eu já concluo
 Na figura 3, coloquei todos os processos que eu concluo no card “CONCLUIDO”, enxergando a velocidade do meu progresso.
