@@ -143,6 +143,7 @@ Saída de dados esperada:
 
 Resultado: Funcionando corretamente!
 
+
 Teste 2- (Cadastro de um código de cliente repetido) quando o usuário for cadastrar um cliente, e colocar um código/ID que já existe(já foi cadastrado).
 
 Entrada de dados:
@@ -153,6 +154,7 @@ Entrada de dados:
 Este ID já existe! 
 
 Resultado: Funcionando corretamente!
+
 
 Teste 3 (Cadastrar funcionário)
 
@@ -166,6 +168,7 @@ Funcionário cadastrado com sucesso!
 
 Resultado: Funcionando corretamente!
 
+
 Teste 4- (Cadastro de um ID de funcionário repetido): Ao cadastrar funcionário, colocar um ID que já tenha sido cadastrado.
 
  Entrada de dados: 
@@ -176,6 +179,7 @@ Saída de dados:
 Esse ID já existe! 
 
 Resultado: Funcionando corretamente!
+
 
 Teste 5 (Cadastro de quarto):
 
@@ -189,6 +193,7 @@ Quarto cadastrado!.
 
 Resultado: Funcionando corretamente!
 
+
 Teste 6: (Cadastro de um código de quarto repetido):quando o usuário for cadastrar um novo quarto usando um ID já existente. 
 
 Entrada de dados: 
@@ -200,6 +205,7 @@ Saída de dados:
 O ID desse quarto já existe! 
 
 Resultado: Funcionando corretamente!
+
 
 Teste 7: (Cadastrar uma estadia): 
 
@@ -213,6 +219,7 @@ Estadia cadastrada com sucesso!.
 
 Resultado: Funcionando corretamente!
 
+
 Teste 8: Cadastrar estadia sem existir o quarto: 
 
 Entrada de dados: 
@@ -225,6 +232,7 @@ Esse quarto não está cadastrado!.
 
 Resuldado: Funcionando corretamente!
 
+
 Teste 9: Ver se ao digitar um ID que não foi cadastrado, deve apresentar uma mensagem de que esse id não existe
 
 Entrada de dados:
@@ -235,6 +243,7 @@ Saída de dados:
 Esse ID não existe!.
 
 Resultado: Funcionando corretamente!
+
 
 Teste 10: Calcular a diária sem existir o ID da estadia.
 
@@ -247,6 +256,7 @@ Saída de dados:
 Estadia não encontrada!.
 
 Resultado: Funcionando corretamente!
+
 
 Para fazer os testes automatizados eu utilizei a biblioteca <assert.h> no próprio code blox, facilitando se cada função está funcionando.
 
