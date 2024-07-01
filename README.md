@@ -250,4 +250,4 @@ Resultado: Funcionando corretamente!
 
 Para fazer os testes automatizados eu utilizei a biblioteca <assert.h> no próprio code blox, facilitando se cada função está funcionando.
 
-  
+ <img src="https://github.com/ReisBiel23/Trabalho-AEDs-e-Fundamentos/blob/main/imagem_2024-07-01_110310213.png?raw=true"/>
